@@ -26,6 +26,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 header .logo {
   position: relative;
@@ -60,6 +61,7 @@ header ul li a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 
 .content .textBox {
@@ -106,6 +108,7 @@ header ul li a {
     justify-content: flex-end;
     padding-right: 50px;
     margin-top: 50px;
+    
 }
 
 .content .imgBox img
@@ -129,6 +132,7 @@ header ul li a {
     margin: 0 20px;
     cursor: pointer;
     transition: 0.5s
+    
 }
 .thumb li:hover
 {
@@ -150,6 +154,7 @@ header ul li a {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    
 }
 
 .sci li
@@ -163,6 +168,7 @@ header ul li a {
     margin:5px 0;
     transition: scale(0.6);
     filter: invert(1)
+    
 }
 
 .circle
@@ -174,4 +180,5 @@ header ul li a {
     height: 100%;
     background: #017143;
     clip-path: circle(600px at right 800px);
+    
 }
