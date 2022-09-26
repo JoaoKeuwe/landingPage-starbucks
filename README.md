@@ -13,9 +13,9 @@ Fiz essa landing Page inspirado no Starbucks, para poder consolidar ainda mais m
 
 Utilizei as seguintes Linguagens:
 
--HTML<br/>
--CSS<br/>
--JavaScript<br/>
+- HTML<br/>
+- CSS<br/>
+- JavaScript<br/>
  
 ## 
 
